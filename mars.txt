@@ -1,2 +1,3 @@
 Mars is dry.
 And has water.
+There's also a robot on it.
